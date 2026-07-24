@@ -1,0 +1,4 @@
+file=/home/user/my_path/cobra_gqa_results.jsonl
+size_bytes=3316066
+modified=2026-04-15 16:45:13.286188771 +0800
+inode=510215572

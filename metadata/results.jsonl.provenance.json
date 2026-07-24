@@ -1,0 +1,47 @@
+{
+  "filename": "cobra_gqa_results.jsonl",
+  "sha256": "8c06873f21937cb5b1f62df6a8c306a4b2544a11c5f7a2be36df3d9cad48d393",
+  "canonical_jsonl_sha256": "6729ea7f178f36a507c6b9a831ba407c22ee5850560de8bad12cf3c0100295e0",
+  "size_bytes": 3316066,
+  "modified_utc": "2026-04-15T08:45:13.286189+00:00",
+  "jsonl_validation": {
+    "valid": true,
+    "valid_record_count": 12578,
+    "blank_line_count": 0,
+    "invalid_line_count": 0,
+    "invalid_lines": []
+  },
+  "summary_consistency": {
+    "expected_record_count": 12578,
+    "record_count_matches_summary": true
+  },
+  "schema": {
+    "common_keys": [
+      "gt",
+      "image_id",
+      "is_correct",
+      "pred",
+      "prompt",
+      "question_id",
+      "text"
+    ],
+    "key_frequency": {
+      "gt": 12578,
+      "image_id": 12578,
+      "is_correct": 12578,
+      "pred": 12578,
+      "prompt": 12578,
+      "question_id": 12578,
+      "text": 12578
+    },
+    "detected_id_key": "question_id"
+  },
+  "sample_identity": {
+    "id_count": 12578,
+    "unique_id_count": 12578,
+    "duplicate_id_count": 0,
+    "duplicate_ids_preview": [],
+    "first_id": "201307251",
+    "last_id": "201738903"
+  }
+}

@@ -1,0 +1,4 @@
+file=/home/user/my_path/testdev_predictions_steplatest.pt.summary.json
+size_bytes=312
+modified=2026-04-12 20:04:41.384958219 +0800
+inode=510215037

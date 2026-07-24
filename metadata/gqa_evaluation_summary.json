@@ -1,0 +1,9 @@
+{
+  "checkpoint_sha256": "1f008f067425fd42db94fb23616664feb37d20be1234822dae2ecd4dbea37613",
+  "num_results": 12578,
+  "num_scored": 12578,
+  "num_correct": 8572,
+  "accuracy": 0.6815073938622993,
+  "paper_rounded_accuracy": 68.2,
+  "metric": "normalized_exact_match"
+}

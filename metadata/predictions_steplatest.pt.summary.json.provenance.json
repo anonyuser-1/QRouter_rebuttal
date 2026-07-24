@@ -1,0 +1,21 @@
+{
+  "filename": "testdev_predictions_steplatest.pt.summary.json",
+  "sha256": "6dd238d4d87b662b79c7f8886105b819318fd33ab7eb3706fe00b64753bd52f4",
+  "size_bytes": 312,
+  "modified_utc": "2026-04-12T12:04:41.384958+00:00",
+  "json_valid": true,
+  "summary_payload": {
+    "checkpoint": "/home/user/my_path/checkpoints/latest.pt",
+    "num_results": 12578,
+    "num_scored": 12578,
+    "num_correct": 8572,
+    "accuracy": 0.6815073938622993,
+    "metric": "normalized_exact_match"
+  },
+  "consistency_checks": {
+    "num_results_equals_num_scored": true,
+    "recomputed_accuracy": 0.6815073938622993,
+    "stored_accuracy": 0.6815073938622993,
+    "accuracy_matches": true
+  }
+}
