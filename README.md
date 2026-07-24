@@ -1,5 +1,5 @@
 # QRouter:  Question-Conditioned Visual Evidence Routing for Fine-Grained Visual Question Answering
-# [Note] More provenance and authenticity-related information is available in the [`metadata/`](metadata/) directory.
+#  🔴 **[Note]**  More provenance and authenticity-related information is available in the [`metadata/`](metadata/) directory.
 
 Official PyTorch implementation of QRouter, a vision-language model that uses
 question-conditioned grounding to construct a compact visual prefix. QRouter-B
