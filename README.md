@@ -140,6 +140,4 @@ QRouter is built on the model organization and Mamba VLM components of
 [Cobra](https://github.com/OpenHelix-Team/cobra). It also uses DINOv2, SigLIP,
 Qwen2.5-VL, and SAM 2.
 
-## License
 
-This project is released under the MIT License.
