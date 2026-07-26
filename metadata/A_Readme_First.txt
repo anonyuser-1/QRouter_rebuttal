@@ -11,9 +11,11 @@ and submission policies, resulting in a desk rejection.
 We thank Reviewer pmDR for the careful inspection that brought the concrete
 discrepancies to our attention. Immediately after receiving the review, we
 started a complete audit of the submitted code and informed the Area Chair so
-that the issue could be handled transparently. We are replacing the code at
-the original anonymous GitHub URL with the version that matches the method
-described in the paper.
+that the issue could be handled transparently. To preserve the original review 
+artifact, we did not modify or overwrite the original anonymous repository. 
+Instead, we created a separate anonymous repository containing a restored and 
+anonymized version of the internal paper-aligned implementation that was used 
+to produce the results reported in the manuscript.
 
 This directory provides additional provenance and integrity information for
 the reported training and evaluation artifacts. It includes SHA-256 digests,
